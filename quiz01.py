@@ -8,3 +8,4 @@ def get_word(sentence, n):
 print(get_word("this is a lesson about this lists", 4))
 print (get_word("this is a lesson about this lists", -4))
 
+
